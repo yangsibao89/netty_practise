@@ -12,7 +12,7 @@
 
         socket = new WebSocket("ws://localhost:8899/ws");
 
-        socket.onmessage = function (event) {/*该方法表示客户端接收到消息*/
+        socket.onmessage = function (event) {/*该方法表示客户端接收到消息,相当于netty的handler中的channelRead0()方法*/
             var ta = document.getElementById("responseText");
             ta.value = ta.value + "\n" + event.data;
         };
