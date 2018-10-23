@@ -25,6 +25,7 @@ public class TestServer {
                     .handler(new LoggingHandler(LogLevel.INFO))
                     .childHandler(new TestServerInitializer());
 
+            
             ChannelFuture channelFuture = serverBootstrap.bind(new InetSocketAddress(8899)).sync();
             channelFuture.channel().closeFuture().sync();
         } finally {
