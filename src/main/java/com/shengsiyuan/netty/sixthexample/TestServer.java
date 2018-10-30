@@ -8,8 +8,6 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.handler.logging.LogLevel;
 import io.netty.handler.logging.LoggingHandler;
 
-import java.net.InetSocketAddress;
-
 /**
  * Created by yangsibao on 2018/10/23.
  */
@@ -25,8 +23,8 @@ public class TestServer {
                     .handler(new LoggingHandler(LogLevel.INFO))
                     .childHandler(new TestServerInitializer());
 
-            
-            ChannelFuture channelFuture = serverBootstrap.bind(new InetSocketAddress(8899)).sync();
+
+            ChannelFuture channelFuture = serverBootstrap.bind(8899).sync();
             channelFuture.channel().closeFuture().sync();
         } finally {
             bossGroup.shutdownGracefully();
