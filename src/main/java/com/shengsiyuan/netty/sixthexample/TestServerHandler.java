@@ -24,4 +24,10 @@ public class TestServerHandler extends SimpleChannelInboundHandler<MyDataInfo.My
             System.out.println(cat.getAddress());
         }
     }
+
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
+        cause.printStackTrace();
+        ctx.close();
+    }
 }
