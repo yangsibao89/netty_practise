@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b63044-d2b7-497c-b789-6544c8e52557" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -17,163 +19,84 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/netty_practise$TestClient.ic" NAME="TestClient Coverage Results" MODIFIED="1549007591053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shengsiyuan.netty.sixthexample.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/netty_practise$TestServer.ic" NAME="TestServer Coverage Results" MODIFIED="1549007666412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shengsiyuan.netty.sixthexample.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="125" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="833052343">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.65" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="MF" value="1" />
-          <entry key="gradle" value="2" />
-          <entry key="java" value="15" />
-          <entry key="md" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="15" />
-          <entry key="Manifest" value="1" />
-          <entry key="Markdown" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gradle" value="51" />
-          <entry key="java" value="2264" />
-          <entry key="md" value="37" />
-          <entry key="txt" value="32" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Groovy" value="51" />
-          <entry key="JAVA" value="2264" />
-          <entry key="Markdown" value="37" />
-          <entry key="PLAIN_TEXT" value="32" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-712847608">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2011" />
-          <entry key="txt" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2011" />
-          <entry key="PLAIN_TEXT" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="20" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty_practise" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty_practise" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="netty_practise" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="netty_practise" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServer.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="629">
+              <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/develop/gradle/gradle-5.1.1/src/core-api/org/gradle/api/Project.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1528" column="9" selection-start-line="1528" selection-start-column="9" selection-end-line="1528" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,47 +105,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerInitializer.java">
+        <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state>
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/bcfad148532ac85727f6ca3b1150396c201b180a/netty-all-4.1.15.Final.jar!/io/netty/channel/nio/AbstractNioMessageChannel.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/MyDataInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="536" column="22" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClientInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/handler/timeout/IdleStateEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-              <folding>
-                <element signature="e#2095#2096#0" expanded="true" />
-                <element signature="e#2123#2124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/handler/timeout/IdleState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -236,6 +175,15 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StaticLoggerBinder</find>
+      <find>'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -247,305 +195,10 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="myGradleHomes">
-      <map>
-        <entry key="$PROJECT_DIR$" value="D:\gradle\gradle-4.10.2" />
-      </map>
-    </option>
-    <option name="myGradleVersions">
-      <map>
-        <entry key="$PROJECT_DIR$" value="4.10.2" />
-      </map>
-    </option>
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="netty_practise" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="netty_practise" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="availableTasks">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'netty_practise'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'netty_practise'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="wrapper" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'netty_practise'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'netty_practise'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="4619839142147" />
-        <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="736274907" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="626067667" />
-      </map>
-    </option>
-    <option name="projectBuildClasspath">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <ExternalProjectBuildClasspathPojo>
-              <option name="modulesBuildClasspath">
-                <map>
-                  <entry key="$PROJECT_DIR$">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="path" value="$PROJECT_DIR$" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="name" value="netty_practise" />
-              <option name="projectBuildClasspath">
-                <list>
-                  <option value="D:/gradle/gradle-4.10.2/lib/ant-1.9.11.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/ant-launcher-1.9.11.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-api-metadata-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-base-services-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-base-services-groovy-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-build-cache-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-build-option-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-cli-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-core-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-core-api-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-docs-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-installation-beacon-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-jvm-services-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-launcher-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-logging-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-messaging-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-model-core-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-model-groovy-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-persistent-cache-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-process-services-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-resources-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-runtime-api-info-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-tooling-api-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/gradle-wrapper-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/groovy-all-2.4.15.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-announce-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-antlr-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-build-cache-http-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-build-comparison-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-build-init-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-code-quality-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-composite-builds-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-dependency-management-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-diagnostics-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-ear-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-ide-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-ide-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-ide-play-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-ivy-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-jacoco-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-javascript-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-language-groovy-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-language-java-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-language-jvm-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-language-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-language-scala-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-maven-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-osgi-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-platform-base-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-platform-jvm-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-platform-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-platform-play-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-plugin-development-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-plugin-use-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-plugins-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-publish-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-reporting-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-resources-gcs-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-resources-http-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-resources-s3-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-resources-sftp-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-scala-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-signing-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-test-kit-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-testing-base-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-testing-junit-platform-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-testing-jvm-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-testing-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-tooling-api-builders-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-tooling-native-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-version-control-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/gradle-workers-4.10.2.jar" />
-                  <option value="D:/gradle/gradle-4.10.2/lib/plugins/ivy-2.2.0.jar" />
-                </list>
-              </option>
-            </ExternalProjectBuildClasspathPojo>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/firstexample/TestServerInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/firstexample/TestServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/firstexample/TestHttpServerHandler.java" />
@@ -565,20 +218,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/build.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClient.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\MavenRepository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="C:\Users\user\.m2\maven_settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -598,75 +249,10 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Code maturity issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>JUnit issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 7Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Javadoc issuesJava</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
-            <id>Portability issuesJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Resource management issuesJava</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring AOPSpring</id>
-          </State>
-          <State>
-            <id>TestNGJava</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
+    <option name="x" value="9" />
+    <option name="y" value="18" />
+    <option name="width" value="1347" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -709,7 +295,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fourthexample" type="462c0819:PsiDirectoryNode" />
+              <item name="sixthexample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
@@ -717,7 +303,47 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdexample" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.grpc:grpc-protobuf-lite:1.18.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.grpc:grpc-protobuf-lite:1.18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="grpc-protobuf-lite-1.18.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.grpc:grpc-protobuf-lite:1.18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="grpc-protobuf-lite-1.18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty_practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.netty:netty-all:4.1.15.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.15.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -729,14 +355,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540133290426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549012361219" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15354018" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.25270158" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -781,13 +409,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyChatClient">
-    <configuration name="MyChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.thirdexample.MyChatClient" />
+  <component name="RunManager" selected="Application.TestServer">
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.sixthexample.TestClient" />
       <module name="netty_practise_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shengsiyuan.netty.thirdexample.*" />
+          <option name="PATTERN" value="com.shengsiyuan.netty.sixthexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -795,12 +423,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.thirdexample.MyChatServer" />
+    <configuration name="TestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.sixthexample.TestServer" />
       <module name="netty_practise_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shengsiyuan.netty.thirdexample.*" />
+          <option name="PATTERN" value="com.shengsiyuan.netty.sixthexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -808,12 +436,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.secondexample.MyClient" />
+    <configuration name="ThriftClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.thrift.ThriftClient" />
       <module name="netty_practise_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shengsiyuan.netty.secondexample.*" />
+          <option name="PATTERN" value="com.shengsiyuan.thrift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -821,12 +449,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.fourthexample.MyServer" />
+    <configuration name="ThriftServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.thrift.ThriftServer" />
       <module name="netty_practise_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shengsiyuan.netty.fourthexample.*" />
+          <option name="PATTERN" value="com.shengsiyuan.thrift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -834,33 +462,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shengsiyuan.netty.secondexample.MyServer" />
-      <module name="netty_practise_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shengsiyuan.netty.secondexample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="netty_practise [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MyServer" />
-      <item itemvalue="Application.MyClient" />
-      <item itemvalue="Application.MyChatServer" />
-      <item itemvalue="Application.MyChatClient" />
-      <item itemvalue="Application.MyServer (1)" />
+      <item itemvalue="Application.TestServer" />
+      <item itemvalue="Application.TestClient" />
+      <item itemvalue="Application.ThriftServer" />
+      <item itemvalue="Application.ThriftClient" />
+      <item itemvalue="Gradle.netty_practise [dependencies]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyChatClient" />
-        <item itemvalue="Application.MyServer (1)" />
-        <item itemvalue="Application.MyChatServer" />
-        <item itemvalue="Application.MyClient" />
-        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.TestServer" />
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="Application.ThriftClient" />
+        <item itemvalue="Application.ThriftServer" />
+        <item itemvalue="Gradle.netty_practise [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -869,7 +503,7 @@
     <option name="myConnectionType" value="NONE" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Ad'min\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -888,6 +522,22 @@
       <workItem from="1539946391974" duration="469000" />
       <workItem from="1540112845507" duration="1009000" />
       <workItem from="1540113931334" duration="10176000" />
+      <workItem from="1548656989590" duration="440000" />
+      <workItem from="1548660838852" duration="1571000" />
+      <workItem from="1548664112144" duration="85000" />
+      <workItem from="1548664223661" duration="322000" />
+      <workItem from="1548729047290" duration="713000" />
+      <workItem from="1548729822829" duration="13301000" />
+      <workItem from="1548808798816" duration="335000" />
+      <workItem from="1548809166509" duration="2057000" />
+      <workItem from="1548815327834" duration="2370000" />
+      <workItem from="1548900667617" duration="8323000" />
+      <workItem from="1548911663951" duration="1552000" />
+      <workItem from="1548984645194" duration="1661000" />
+      <workItem from="1548986340415" duration="3706000" />
+      <workItem from="1548990349799" duration="14023000" />
+      <workItem from="1549010383996" duration="54000" />
+      <workItem from="1549010463727" duration="1896000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1539588621279</created>
@@ -914,50 +564,61 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40700000" />
+    <option name="totallyTimeSpent" value="93109000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1233" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19635193" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24961832" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.3482373" />
+      <window_info id="Structure" order="1" sideWeight="0.5018116" side_tool="true" weight="0.31384352" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44199535" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" x="27" y="116" width="1310" height="442" id="Terminal" order="9" sideWeight="0.49694657" weight="0.26450115" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" weight="0.32946634" />
-      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49785408" weight="0.32946634" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32849365" />
-      <window_info anchor="bottom" id="REST Client" order="13" weight="0.7041742" />
+      <window_info id="Favorites" order="6" sideWeight="0.5018116" side_tool="true" weight="0.31384352" />
+      <window_info id="Learn" order="7" weight="0.32932073" />
+      <window_info anchor="bottom" id="Problems" order="0" sideWeight="0.49871024" weight="0.32971016" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.9293478" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4402174" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49957007" weight="0.32789856" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" x="27" y="116" width="1310" height="442" id="Terminal" order="10" sideWeight="0.494411" weight="0.26268116" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012898" side_tool="true" weight="0.32971016" />
+      <window_info anchor="bottom" id="Build" order="12" sideWeight="0.49785408" weight="0.32789856" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4978504" weight="0.9302752" />
+      <window_info anchor="bottom" id="REST Client" order="14" weight="0.7041742" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24961832" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24935512" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32932073" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" weight="0.32977098" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.32932073" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32932073" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
@@ -968,29 +629,69 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="546">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/ChannelHandler.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/handler/codec/http/HttpHeaders.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/firstexample/TestServerInitializer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="416">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fifthexample/MyWebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/PersonServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1005,192 +706,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyClientInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/firstexample/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="648" selection-start-line="648" selection-end-line="648" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="478" selection-start-line="478" selection-end-line="478" />
-          <folding>
-            <element signature="e#14610#14800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/util/concurrent/AbstractEventExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="160" column="26" selection-start-line="160" selection-start-column="26" selection-end-line="160" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="419" selection-start-line="419" selection-end-line="419" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="458" selection-start-line="458" selection-end-line="458" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/channel/ChannelInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/handler/timeout/IdleStateEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-          <folding>
-            <element signature="e#2095#2096#0" expanded="true" />
-            <element signature="e#2123#2124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.6.Final/699ff4842f3ad4aff00b0835f07fede8563e4513/netty-all-4.1.6.Final-sources.jar!/io/netty/handler/timeout/IdleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
+        <state relative-caret-position="754">
           <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1198,20 +716,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/thirdexample/MyChatClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fifthexample/MyWebSocketChannelIntitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="230">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/DataException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServerInitializer.java">
+    <entry file="file://$PROJECT_DIR$/gen-java/thrift/generated/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="-234">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protobuf/Person.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1220,11 +762,267 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/fourthexample/MyServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="338">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/secondexample/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protobuf/Student.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.25/af3cd3ad1ea4b08b27b54f12529b4bf343bc5ca1/slf4j-simple-1.7.25-sources.jar!/org/slf4j/impl/OutputChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.25/af3cd3ad1ea4b08b27b54f12529b4bf343bc5ca1/slf4j-simple-1.7.25-sources.jar!/org/slf4j/impl/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5396">
+          <caret line="315" column="72" selection-start-line="315" selection-start-column="72" selection-end-line="315" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrift/generated/DataException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrift/generated/PersonServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/thrift/ThriftClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/thrift/ThriftServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrift/generated/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thrift/data.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.11.0/28b2a14191e8f0540d5580375a45006859ba6da9/libthrift-0.11.0-sources.jar!/org/apache/thrift/scheme/IScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.11.0/28b2a14191e8f0540d5580375a45006859ba6da9/libthrift-0.11.0-sources.jar!/org/apache/thrift/scheme/SchemeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.11.0/28b2a14191e8f0540d5580375a45006859ba6da9/libthrift-0.11.0-sources.jar!/org/apache/thrift/scheme/StandardScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/develop/gradle/gradle-5.1.1/src/core-api/org/gradle/api/artifacts/dsl/RepositoryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#10373#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/protobuf/ProtoBufTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/thrift/PersonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protobuf/MyDataInfo.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/org.apache.thrift/libthrift/0.11.0/28b2a14191e8f0540d5580375a45006859ba6da9/libthrift-0.11.0-sources.jar!/org/apache/thrift/scheme/TupleScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#1713#1714#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/develop/gradle/gradle-5.1.1/src/core-api/org/gradle/api/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1528" column="9" selection-start-line="1528" selection-start-column="9" selection-end-line="1528" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/d4bb115e8980f5dde55be6061a512d9a7e69033a/netty-all-4.1.15.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradleRepository/caches/modules-2/files-2.1/io.netty/netty-all/4.1.15.Final/bcfad148532ac85727f6ca3b1150396c201b180a/netty-all-4.1.15.Final.jar!/io/netty/channel/nio/AbstractNioMessageChannel.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/MyDataInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="536" column="22" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClientInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shengsiyuan/netty/sixthexample/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1257,6 +1055,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1284,8 +1083,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.24828263" />
               </list>
             </option>
           </splitter-proportions>
@@ -1305,7 +1103,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: io.netty:netty-all:4.1.6.Final</last-edited>
+          <last-edited>Gradle: com.google.api.grpc:proto-google-common-protos:1.12.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1320,7 +1118,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.30923247" />
               </list>
             </option>
           </splitter-proportions>
