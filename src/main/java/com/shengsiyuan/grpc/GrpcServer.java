@@ -23,16 +23,23 @@ public class GrpcServer {
         this.server = ServerBuilder.forPort(8899).addService(new StudentServiceImpl()).build().start();
 
         System.out.println("server started!");
+
+        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+            System.out.println("关闭jvm");
+            GrpcServer.this.stop();
+        }));
+
+        System.out.println("执行到这里");
     }
 
     private void stop() {
-        if (this.server != null) {
+        if (null != this.server) {
             this.server.shutdown();
         }
     }
 
     private void awaitTermination() throws InterruptedException {
-        if (this.server != null) {
+        if (null != this.server) {
             this.server.awaitTermination();
         }
     }
