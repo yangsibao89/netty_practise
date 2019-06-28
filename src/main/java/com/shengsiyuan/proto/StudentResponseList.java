@@ -315,7 +315,7 @@ public final class StudentResponseList extends
     public static final class Builder extends
             com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
             // @@protoc_insertion_point(builder_implements:com.shengsiyuan.proto.StudentResponseList)
-            com.shengsiyuan.proto.StudentResponseListOrBuilder {
+            StudentResponseListOrBuilder {
         private int bitField0_;
         private java.util.List<StudentResponse> studentResponse_ =
                 java.util.Collections.emptyList();
@@ -752,12 +752,12 @@ public final class StudentResponseList extends
 
         public final Builder mergeUnknownFields(
                 final com.google.protobuf.UnknownFieldSet unknownFields) {
-            return this;
-        }
-
-
-        // @@protoc_insertion_point(builder_scope:com.shengsiyuan.proto.StudentResponseList)
+      return this;
     }
+
+
+    // @@protoc_insertion_point(builder_scope:com.shengsiyuan.proto.StudentResponseList)
+  }
 
 }
 

@@ -450,7 +450,7 @@ public final class StudentRequest extends
 
 
         // @@protoc_insertion_point(builder_scope:com.shengsiyuan.proto.StudentRequest)
-    }
+  }
 
 }
 
